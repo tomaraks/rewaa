@@ -1,0 +1,15 @@
+{
+  "name": "e2etests",
+  "version": "1.0.0",
+  "description": "Movies Show Admin E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Akshay Singh Tomar",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6"
+  }
+}
